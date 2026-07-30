@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {}
   },
@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rochellew\\.nuget\\packages\\": {}
+    "C:\\Users\\whroc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\MongoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\whroc\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\MongoCSharp.csproj",
       "projectName": "MongoCSharp",
-      "projectPath": "E:\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\MongoCSharp.csproj",
-      "packagesPath": "C:\\Users\\rochellew\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\obj\\",
+      "projectPath": "C:\\Users\\whroc\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\MongoCSharp.csproj",
+      "packagesPath": "C:\\Users\\whroc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\whroc\\source\\repos\\csci-3020-summer-2026\\MongoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rochellew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\whroc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -47,11 +46,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -69,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
